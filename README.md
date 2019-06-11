@@ -25,8 +25,8 @@
    * https://github.com/Jinseop95/Capstone_Design
    
  5. 프로젝터조
-   * 프로젝트명 : 
-   * 주제 : 
+   * 프로젝트명 : 한림대학교 SW중심대학사업단 홈페이지 및 업무시스템 개선
+   * 주제 : 업무 통합의 관점에서 서비스를 개선하고, 추가적으로 필요한 업무시스템 구축
    * 
 
  6. 장비지원조
@@ -36,7 +36,7 @@
    
  7. M2F1조
    * 프로젝트명 : 빅데이터 설문조사
-   * 주제 : 
+   * 주제 : 설문조사 및 결과 분석 프로그램 구축
    * 
    
  8. 배드림턴조
@@ -45,7 +45,7 @@
    * https://github.com/asd40681402/Capstone_BaDreamTon
    
  9. 나머지조
-   * 프로젝트명 : 
-   * 주제 : 
-   * 
+   * 프로젝트명 : Club Management
+   * 주제 : 동아리 관리 안드로이드 어플리케이션 구축
+   * https://github.com/JeongGyunMo/Capstone-Design
     
